@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 📝 I regularly write articles on [https://medium.com/@adithyanathmite](https://medium.com/@adithyanathmite)
+
 
 - 💬 Ask me about **Web Development**
 
