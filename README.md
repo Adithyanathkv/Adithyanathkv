@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adithyanath-k-v-7b7240201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adithyanath-k-v-7b7240201" height="30" width="40" /></a>
+<a href="https://medium.com/@adithyanathmite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adithyanathmite" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
