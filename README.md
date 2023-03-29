@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adtihyanath K V</h1>
 <h3 align="center">Java Backend Developer (Kannur,Kerala)</h3>
 <p>Java Backend Developer Right now I have finished my Java Backend Development course at Masai School, Bengaluru. I love to learn and explore.</p>
-<p align="left"> <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="adithyanathkv" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyanathkv&label=Profile%20views&color=0e75b6&style=flat" alt="adithyanathkv" /> </p>
 
 - 🌱 I’m currently learning **Spring Boot**
